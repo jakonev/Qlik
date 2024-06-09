@@ -17,3 +17,6 @@ Dash
 <img src="https://v5.airtableusercontent.com/v3/u/29/29/1717603200000/m6wRVGm1hxOCATv1ctMtvQ/pE6CMwaFXMOOq0xLe0BDm-BLqGddcibQK7yS6vDJPtobK0DiGCd5KyDJu-AFRUPOhH_23G1Giny-vSMJWX1kA-0l69BK5ZnNoMTBuV7ydZJId9nOL_zUKRwiHdXnaZsI6LmZRNgOdKM9rVmy9mjqkg/SE9QT1U9eEajwkLoOje4cp3dot69H3bKk3LBZEd4UOc">
 
 
+Qlik 
+
+Arquivo "RESTDB_IO.qvf" conectado na minha nuvem via api service restdb.io atualizado ano base 2024 até dia 07/06/24.
