@@ -10,14 +10,14 @@ No meu caso: D://Cotação/
 
 FROM [lib://Cotação/COTAHIST_A2024.TXT]
 
-![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/XDCtL5fSSYuI0FjhCGEnZA/oHaVT45T9gE6ezHafngJwLzkpJu06n7w-phI_ZA4U_Q4F9XdlN3tMwCagnAOkrdvCy2pZcul9-VwrfOatV-xnZjVcK1dJJ_njGqWz7Wp8oHQq3Zo_ia_cXL2hBGHnfu_k4n9fKAoRYqhXlCSgQBiv1wp8QqJJH-iOXR5la_EhBU/I9kPg8fI5gS4QdiBC3B_gT-vosw7HCe7u7ZsBO0jwhI)
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/psva1RldOhg-4cLqqwW40w/UO7qebtUz3Cp8cyyBDAF35ODX7m9QUgtfGXl2uy-MERZ4tjIBOayic_HMJT6fEjMW8McFvadZIrMqHuACFUaco915jUuENaqrfZJBqy-AYtXVrc2gJ6z7I0vokLcvaLhy4IoLwbU5RBVSSs2QQWQyJEDJJjZUrOKBRAb_Dd459M/CV23cd5z6oDXH_GZob_jE-LQduG3pTSXe9z-6FY5QMw)
 
 Dash
 
-![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/rrGsrrfp44glOgZpNwjW5A/Yb-_7BukRTkplU-VFt08eHJ6yZxRYFGIdGBPomSqZuvAMC7ODoxLNTD0UTBcTvKvq6UtVkDtUToavmb62a7CQeip7bPvhf2du0ahwXa3ZhTalBkQMD2R2up5uSRipRL2QojFQkmzddoM2kAQYaomEw/Ify5ARzHU7x7KEpQV72kmA7YbGikYel7VyFpydTvhck)
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/MYANlq7n2XDvuTm17Io-6Q/dgAeR6h-fV06jPATUrEd21Vb3C8f13dRVMU9l3DDReoM7pOOY_3CbQ7OcAhwumhOhJkz_bLta33KKzeTsRFZLqoj4D_NjE_p-u3WhwvgMfyM7W8Hcmg5O4a1lxIhnEEWkVG74kNZX-vfEnODQTB9AA/TOf4bD2mevE5_G9SVGJcO-0sdCSKFAdv5S5JvTnxL_o) 
 
 
-![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/RJTJgp7XPpp-_ssIynxZqw/kY9LqIKceeFBPRt3Zlslu5aXxcTOE49n9Q4Rg9BwczOFg7Vq7If0rRmCD3OBYf-ZmlA4Aj-X-3qTnm80gXGjtqZ54BiwwNBTc1jjv4AyYiQd8adojCOO9aHcFSwSK5mArCC1u_0BFL_RKX_BDkTiPA/A6id-SidLSFT_ofjLu5pUWXQnIUwM3z0IWMO-VZla34)
+
 
 Qlik 
 
